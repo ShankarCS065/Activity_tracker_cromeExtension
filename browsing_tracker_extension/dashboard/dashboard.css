@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  #stats {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  

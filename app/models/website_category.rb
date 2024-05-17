@@ -1,0 +1,2 @@
+class WebsiteCategory < ApplicationRecord
+end
